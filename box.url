@@ -1,2 +1,29 @@
-[InternetShortcut]
-URL=http://127.0.0.1:5500/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>box</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+   <h1 class="title">margin & padding</h1> 
+
+   <div class="qora">
+   <p class="p1">Margin
+Sign in to edit
+Quick Code
+Contents
+Introduction
+Margin is a HTML, CSS, and WikiText element that is mainly used to indent text (which also can be done by putting a colon [:] in front of the text). Margin is similar to Padding, but you can also use it to indent on the right, top, or bottom! Indenting is how far away from the edge of the coded area the text or item has to be.
+
+Using Margin
+Margin has four parts to it: top-margin, bottom-margin, left-margin, and right-margin. Let's take a look at top-margin first.
+
+Top Margin
+Top margin is how far away from the top edge of the coded area the text or item is. You can use top margin by typing in the following code:</p>
+
+<p class="p2">The padding property is used in CSS and certain HTML tags. It can only be used with an available background-color or background-image property, as it provides the information on the padding of the background color or image around the text. Its values can be entered in pixels or percentages. Pixels generate more accurate results, where percentages often make the padding too large. To specify a different padding for each side of the object, use padding-top, padding-bottom, padding-right, or padding-left.</p>
+   </div>
+</body>
+</html>
